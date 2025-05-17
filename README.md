@@ -1,4 +1,4 @@
-![MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
+[MasterHead](https://www.apptha.com/blog/wp-content/uploads/2019/05/Hire-full-stack-developer.jpg)
 <h1 align="center">Hi 👋, I'm Balaji Kuppala</h1>
 <h3 align="center">A passionate Full Stack Developer from India .</h3>
 <img align="right" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif" alt="full stack">  
